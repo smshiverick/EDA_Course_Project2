@@ -6,16 +6,11 @@ Fine particulate matter (PM2.5) is an ambient air pollutant for which there is s
 
 For each year and for each type of PM source, the NEI records how many tons of PM2.5 were emitted from that source over the course of the entire year. The data that you will use for this assignment are for 1999, 2002, 2005, and 2008.
 
-### Review Criteria 
-For each question...
-
-* Does the plot appear to address the question being asked?
-* Does the plot appear to address the question being asked?
-
-### Data 
+### The Data 
 The data for this assignment are available from the course web site as a single zip file:
+* Data for Peer Assessment [29Mb]
+* https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 
-#### Data for Peer Assessment [29Mb]
 The zip file contains two files:
 
 #### PM2.5 Emissions Data (𝚜𝚞𝚖𝚖𝚊𝚛𝚢𝚂𝙲𝙲_𝙿𝙼𝟸𝟻.𝚛𝚍𝚜): 
