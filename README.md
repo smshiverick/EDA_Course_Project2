@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis: Course Project Two
 
-## Instructions
+### Instructions
 
 Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of PM2.5. This database is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the EPA National Emissions Inventory web site.
 
@@ -44,9 +44,9 @@ The zip file contains two files:
 
 You can read each of the two files using the 𝚛𝚎𝚊𝚍𝚁𝙳𝚂() function in R. For example, reading in each file can be done with the following code:
 
-1. This first line will likely take a few seconds. Be patient! 
-2. NEI <- readRDS("summarySCC_PM25.rds")
-3. SCC <- readRDS("Source_Classification_Code.rds")
+#### This first line will likely take a few seconds. Be patient! 
+> NEI <- readRDS("summarySCC_PM25.rds")
+> SCC <- readRDS("Source_Classification_Code.rds")
 
 As long as each of those files is in your current working directory (check by calling 𝚍𝚒𝚛() and see if those files are in the listing).
 
@@ -75,8 +75,8 @@ For each plot you should
 
 ##### Construct the plot and save it to a PNG file.
 
-Create a separate R code file (𝚙𝚕𝚘𝚝𝟷.𝚁, 𝚙𝚕𝚘𝚝𝟸.𝚁, etc.) that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You must also include the code that creates the PNG file. Only include the code for a single plot (i.e. 𝚙𝚕𝚘𝚝𝟷.𝚁 should only include code for producing 𝚙𝚕𝚘𝚝𝟷.𝚙𝚗𝚐)
+* Create a separate R code file (𝚙𝚕𝚘𝚝𝟷.𝚁, 𝚙𝚕𝚘𝚝𝟸.𝚁, etc.) that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You must also include the code that creates the PNG file. Only include the code for a single plot (i.e. 𝚙𝚕𝚘𝚝𝟷.𝚁 should only include code for producing 𝚙𝚕𝚘𝚝𝟷.𝚙𝚗𝚐)
 
-Upload the PNG file on the Assignment submission page
+* Upload the PNG file on the Assignment submission page
 
-Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
+* Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
